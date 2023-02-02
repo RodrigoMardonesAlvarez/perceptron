@@ -1,6 +1,6 @@
-# Learning about The sigmoid function
+# Learning about The Sigmoid Function
 
-Elemental javascript perceptron
+## Elemental javascript perceptron
 
 
 ![Gjl-t(x)](https://user-images.githubusercontent.com/89952475/216314168-1946b718-ebda-40f7-b1fe-ff4f1095f81f.svg)
